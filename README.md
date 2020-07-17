@@ -10,9 +10,9 @@
 
 ### About
   
-👨‍💻 19 years old developer 
+👨‍💻 19 years old developer  
 👨‍🎓 Studying Information Systems here in Indonesia  
-👨‍📚 Currently learning Full Stack Web Development   
+👨‍📚 Currently learning Full Stack Web Development  
 
 
 ### Languages and Tools
