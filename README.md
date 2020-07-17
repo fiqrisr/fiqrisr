@@ -1,16 +1,14 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=fiqrisr&show_icons=true">
 
-<!--
-**fiqrisr/fiqrisr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Fiqri :lemon:
 
-Here are some ideas to get you started:
+[![fsr.my.id](https://img.shields.io/static/v1?label=lucafluri.ch&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://fsr.my.id/)
+[![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/fiqrisyahredha/)
+[![wibulo27@gmail.com](https://img.shields.io/static/v1?label=me@lucafluri.ch&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:wibulo27@gmail.com)
+  
+  
+👨‍💻 19 Years old Front-End Web Developer
+👨‍🎓 Studying Information Systems here in Indonesia  
+🚧 **Current Project:** [Price Tracker](https://github.com/lucafluri/price_tracker)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [lucafluri](https://github.com/lucafluri)
