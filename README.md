@@ -1,9 +1,11 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=fiqrisr&show_icons=true">
 
-### Hi there I'm Fiqri :apple:
+### Hi there, I'm Fiqri :apple:
 
 [![fsr.my.id](https://img.shields.io/static/v1?label=fsr.my.id&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://fsr.my.id/)
+[![Facebook](https://img.shields.io/static/v1?label=Facebook&message=%20&color=blue&logo=Facebook&style=flat-square&logoColor=white)](https://www.facebook.com/fiqrisyahredha/)
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=%20&color=orange&logo=Instagram&style=flat-square&logoColor=white)](https://www.instagram.com/fiqrisyahredha/)
+[![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1da1f2&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fiqrisyahredha/)
 [![wibulo27@gmail.com](https://img.shields.io/static/v1?label=wibulo27@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:wibulo27@gmail.com)
 
 ### About
