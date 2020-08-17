@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=fiqrisr&show_icons=true">
-
 ### Hi there, I'm Fiqri :man_technologist:
 
 [![fsr.my.id](https://img.shields.io/static/v1?label=fsr.my.id&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://fsr.my.id/)
