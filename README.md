@@ -1,4 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=fiqrisr&show_icons=true&hide_rank=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fiqrisr&layout=compact">
 
 ### Hi there, I'm Fiqri :man_technologist:
