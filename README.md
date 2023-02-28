@@ -8,17 +8,10 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1da1f2&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fiqrisyahredha/)
 [![fiqrisyahredha@gmail.com](https://img.shields.io/static/v1?label=fiqrisyahredha@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:fiqrisyahredha@gmail.com)
 
-### About
-  
-💻 21 years old developer  
-🎓 Studying Information Systems here in Indonesia  
-📚 Currently learning Full Stack Web Development  
+I'm a Front End Developer from Indonesia. I love to learn new things every day especially software development. Besides front end development, I'm also interested in software architecture and system design.
 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;&line2=react,React.js,61DAFB;nextdotjs,Next.js,000000;)](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=2&line1=javascript,JavaScript,F7DF1E;typescript,TypeScript,3178C6;&line2=react,React.js,61DAFB;nextdotjs,Next.js,000000;)
 
-### Languages and Tools
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact" />
+</a>
