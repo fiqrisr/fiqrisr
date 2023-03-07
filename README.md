@@ -1,6 +1,7 @@
-<a href="https://github-readme-stats.vercel.app/api?username=fiqrisr&count_private=true&show_icons=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=fiqrisr&count_private=true&show_icons=true" />
+<a href="https://wakatime.com/@fiqrisr" target="_blank" rel="noopener noreferrer">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact" />
 </a>
+
 
 ### Hi there, I'm Fiqri :man_technologist:
 
@@ -12,7 +13,3 @@
 [![fiqrisyahredha@gmail.com](https://img.shields.io/static/v1?label=fiqrisyahredha@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:fiqrisyahredha@gmail.com)
 
 I'm a Front End Developer from Indonesia. I love to learn new things every day especially software development. Besides front end development, I'm also interested in software architecture and system design.
-
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact" />
-</a>
