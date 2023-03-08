@@ -1,5 +1,5 @@
-<a href="https://wakatime.com/@fiqrisr" target="_blank">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=@fiqrisr&layout=compact" />
+<a href="https://wakatime.com/fiqrisr" target="_blank">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=fiqrisr&layout=compact" />
 </a>
 
 
