@@ -11,5 +11,3 @@
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=%20&color=1da1f2&logo=Twitter&style=flat-square&logoColor=white)](https://www.twitter.com/fiqrisyahredha/)
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=0a66c2&logo=LinkedIn&style=flat-square&logoColor=white)](https://www.linkedin.com/in/fiqrisyahredha/)
 [![fiqrisyahredha@gmail.com](https://img.shields.io/static/v1?label=fiqrisyahredha@gmail.com&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:fiqrisyahredha@gmail.com)
-
-I'm a Frontend Engineer, building interactive front-end application for [Dealls](https://dealls.com/).
