@@ -70,6 +70,17 @@
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
+
+```txt
+Total Time: 1,163 hrs 29 mins
+
+TypeScript                 808 hrs 53 mins █████████████████▒░░░░░░░   68.95 %
+JavaScript                 85 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Vue.js                     48 hrs 46 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+PHP                        47 hrs 51 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JSON                       44 hrs 33 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+```
+
 <!--END_SECTION:waka2-->
 
 <br clear="both">
