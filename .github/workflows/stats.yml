@@ -6,12 +6,8 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - master
-
 jobs:
-  update-readme:
+  update-waka-readme-stats:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
