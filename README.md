@@ -81,18 +81,16 @@
 
 ```text
 💬 Programming Languages: 
-JavaScript               47 mins             ████████████████░░░░░░░░░   62.02 % 
-Vue.js                   29 mins             █████████░░░░░░░░░░░░░░░░   37.98 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   1 hr 7 mins         ██████████████████████░░░   88.45 % 
-VS Code                  8 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-newvc_fe                 1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      1 hr 16 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -108,7 +106,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/04/2024 01:14:29 UTC
+ Last Updated on 25/04/2024 01:15:27 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
