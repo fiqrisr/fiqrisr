@@ -17,7 +17,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: base.svg
           output_action: gist
-          commiter_gist: ${{ secrets.METRICS_GIST_ID }}
+          committer_gist: ${{ secrets.METRICS_GIST_ID }}
           config_timezone: Asia/Jakarta
           base: header
           plugin_habits: yes
@@ -30,7 +30,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
           filename: starred.svg
           output_action: gist
-          commiter_gist: ${{ secrets.METRICS_GIST_ID }}
+          committer_gist: ${{ secrets.METRICS_GIST_ID }}
           config_timezone: Asia/Jakarta
           base: ""
           plugin_stars: yes
