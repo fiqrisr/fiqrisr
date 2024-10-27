@@ -10,13 +10,13 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fiqrisyahredha@gmail.com)
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fiqrisyahredha)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqrisyahredha)
-  [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiqrisyahredha)
-  [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/484183499050582027)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/fiqrisyahredha)
-  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:fiqrisyahredha@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fiqrisyahredha)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fiqrisyahredha)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fiqrisyahredha)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discordapp.com/users/484183499050582027)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/fiqrisyahredha)
+
 </div>
 
 ###
@@ -60,44 +60,49 @@
 <br clear="both">
 
 <!--START_SECTION:waka1-->
-📊 **This Week I Spent My Time On** 
+
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-TypeScript               27 hrs 28 mins      ████████████████████████░   94.91 % 
-JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+💬 Programming Languages:
+TypeScript               27 hrs 28 mins      ████████████████████████░   94.91 %
+JSON                     34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+JavaScript               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 
-🔥 Editors: 
-Neovim                   19 hrs 48 mins      █████████████████░░░░░░░░   68.43 % 
-VS Code                  9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.57 % 
+🔥 Editors:
+Neovim                   19 hrs 48 mins      █████████████████░░░░░░░░   68.43 %
+VS Code                  9 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   31.57 %
 
-🐱‍💻 Projects: 
-open-api-portal          28 hrs 51 mins      █████████████████████████   99.71 % 
-fiqrisr                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-job-portal-user          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+🐱‍💻 Projects:
+open-api-portal          28 hrs 51 mins      █████████████████████████   99.71 %
+fiqrisr                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+job-portal-user          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 
-💻 Operating System: 
-Linux                    28 hrs 56 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    28 hrs 56 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               29 repos            ████████████░░░░░░░░░░░░░   47.54 % 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+TypeScript               29 repos            ████████████░░░░░░░░░░░░░   47.54 %
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Lua                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
+Last Updated on 27/10/2024 01:43:28 UTC
 
-
-
- Last Updated on 27/10/2024 01:43:28 UTC
 <!--END_SECTION:waka1-->
+
+<!--START_SECTION:metrics-->
+
+![Metrics](/github-metrics.svg)
+
+<!--END_SECTION:metrics-->
 
 <!--START_SECTION:waka2-->
 
