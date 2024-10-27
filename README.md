@@ -65,9 +65,9 @@
 
 <!--END_SECTION:metrics-->
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqrisr&theme=ayu-mirage&hide_border=false" height="160" />
-</div>
+</p>
 
 <!--START_SECTION:waka1-->
 
