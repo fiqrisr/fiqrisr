@@ -126,6 +126,4 @@ PHP                        48 hrs 43 mins  ▓░░░░░░░░░░░�
 
 <!--END_SECTION:waka2-->
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/fiqrisr/fiqrisr/output/snake.svg" alt="Snake animation" />
