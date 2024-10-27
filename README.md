@@ -64,6 +64,9 @@
 [<img align="left" width="390" alt="Base metrics" src="https://gist.githubusercontent.com/fiqrisr/bbcf04a19349368e6c7873e2f7bbd987/raw/base.svg">](#)
 [<img align="right" width="390" alt="Starred repositories" src="https://gist.githubusercontent.com/fiqrisr/bbcf04a19349368e6c7873e2f7bbd987/raw/starred.svg">](#)
 
+<br clear="both">
+<p></p>
+
 <!--END_SECTION:metrics-->
 
 <!-- <p align="center"> -->
