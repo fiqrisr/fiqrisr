@@ -15,8 +15,12 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN }}
           config_timezone: Asia/Jakarta
+          base: header
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
           plugin_stars: yes
           plugin_stars_limit: 3
-          plugin_wakatime: yes
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
-          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          # plugin_wakatime: yes
+          # plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          # plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

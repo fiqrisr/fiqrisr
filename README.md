@@ -100,7 +100,7 @@ Last Updated on 27/10/2024 01:43:28 UTC
 
 <!--START_SECTION:metrics-->
 
-![Metrics](/github-metrics.svg)
+<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
 
 <!--END_SECTION:metrics-->
 
