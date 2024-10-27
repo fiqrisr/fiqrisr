@@ -124,8 +124,4 @@ PHP                        48 hrs 43 mins  ▓░░░░░░░░░░░�
 
 <br clear="both">
 
-###
-
 <img src="https://raw.githubusercontent.com/fiqrisr/fiqrisr/output/snake.svg" alt="Snake animation" />
-
-###
