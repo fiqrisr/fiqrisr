@@ -59,6 +59,16 @@
 
 <br clear="both">
 
+<!--START_SECTION:metrics-->
+
+<p align="center" style="margin-bottom: 10px;"><img src="./github-metrics.svg" alt="Metrics"></p>
+
+<!--END_SECTION:metrics-->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqrisr&theme=ayu-mirage&hide_border=false" height="160" />
+</div>
+
 <!--START_SECTION:waka1-->
 
 📊 **This Week I Spent My Time On**
@@ -98,12 +108,6 @@ Last Updated on 27/10/2024 01:43:28 UTC
 
 <!--END_SECTION:waka1-->
 
-<!--START_SECTION:metrics-->
-
-<p align="center"><img src="./github-metrics.svg" alt="Metrics"></p>
-
-<!--END_SECTION:metrics-->
-
 <!--START_SECTION:waka2-->
 
 ```txt
@@ -119,10 +123,6 @@ PHP                        48 hrs 43 mins  ▓░░░░░░░░░░░�
 <!--END_SECTION:waka2-->
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fiqrisr&theme=ayu-mirage&hide_border=false" height="160" />
-</div>
 
 ###
 
