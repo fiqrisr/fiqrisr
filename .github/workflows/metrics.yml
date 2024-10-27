@@ -31,6 +31,7 @@ jobs:
           filename: starred.svg
           output_action: gist
           committer_gist: ${{ secrets.METRICS_GIST_ID }}
+          config_padding: 0, 60
           config_timezone: Asia/Jakarta
           base: ""
           plugin_stars: yes
