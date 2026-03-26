@@ -78,16 +78,19 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Go                       44 mins             █████████████░░░░░░░░░░░░   53.57 % 
+TypeScript               29 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity              1 hr 23 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+marketplace-service-api  54 mins             ████████████████░░░░░░░░░   65.16 % 
+open-api-portal          29 mins             █████████░░░░░░░░░░░░░░░░   34.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 23 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -103,7 +106,7 @@ Elixir                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2026 00:40:44 UTC
+ Last Updated on 26/03/2026 00:43:33 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
