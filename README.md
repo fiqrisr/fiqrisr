@@ -78,37 +78,38 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               3 hrs 23 mins       █████████████████░░░░░░░░   69.55 % 
-Bash                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-Astro                    28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
-CSS                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TypeScript               4 hrs 47 mins       ███████████████░░░░░░░░░░   58.99 % 
+Astro                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+CSS                      45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Bash                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-Windsurf                 4 hrs 52 mins       █████████████████████████   100.00 % 
+Windsurf                 8 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          3 hrs 4 mins        ████████████████░░░░░░░░░   62.84 % 
-fiqri.dev                1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   37.16 % 
+fiqri.dev                4 hrs 40 mins       ██████████████░░░░░░░░░░░   57.42 % 
+open-api-portal          3 hrs 21 mins       ██████████░░░░░░░░░░░░░░░   41.34 % 
+halte-ui                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Linux                    4 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               32 repos            ██████████░░░░░░░░░░░░░░░   40.51 % 
-Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
-Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+TypeScript               34 repos            ██████████░░░░░░░░░░░░░░░   41.98 % 
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+JavaScript               7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
 ```
 
 
 
 
- Last Updated on 08/05/2026 00:55:38 UTC
+ Last Updated on 09/05/2026 00:55:21 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
