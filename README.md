@@ -78,42 +78,42 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 42 mins       █████████████████░░░░░░░░   69.73 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-CSS                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-Astro                    20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Go                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+TypeScript               4 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.81 % 
+Astro                    3 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   33.14 % 
+Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Image (svg)              19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 29 mins       ████████████████████████░   96.19 % 
-VS Code                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Devin                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Neovim                   9 hrs 25 mins       ████████████████████████░   97.34 % 
+VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Devin                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🐱‍💻 Projects: 
-open-api-portal          4 hrs 49 mins       ██████████████████░░░░░░░   71.28 % 
-miyuphi                  1 hr 18 mins        █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-marketplace-service-api  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-qrave                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+miyuphi                  5 hrs 10 mins       █████████████░░░░░░░░░░░░   53.41 % 
+open-api-portal          3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   38.36 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+marketplace-service-api  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+qrave                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 💻 Operating System: 
-Linux                    6 hrs 45 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               34 repos            ██████████░░░░░░░░░░░░░░░   41.46 % 
-Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Elixir                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               34 repos            ██████████░░░░░░░░░░░░░░░   40.96 % 
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
 
 
- Last Updated on 16/06/2026 01:16:59 UTC
+ Last Updated on 17/06/2026 01:12:19 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
