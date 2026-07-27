@@ -78,24 +78,24 @@
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 25 mins        ██████████████░░░░░░░░░░░   54.85 % 
-Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-TypeScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
-HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+Go                       1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.16 % 
+TypeScript               43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 36 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketplace-service-api  1 hr 25 mins        ██████████████░░░░░░░░░░░   54.85 % 
-fiqri.dev                23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-open-api-portal          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-marketplace-api-gateway  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-marketplace-event-service10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+marketplace-service-api  1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.16 % 
+cuan                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
+fiqri.dev                23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
+open-api-portal          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
+marketplace-api-gateway  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Linux                    2 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +111,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 02:56:59 UTC
+ Last Updated on 27/07/2026 03:33:13 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
