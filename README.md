@@ -74,28 +74,36 @@
 <!-- </p> -->
 
 <!--START_SECTION:waka1-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2036%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.16 % 
-TypeScript               43 mins             ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Astro                    20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
-HTML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Go                       1 hr 25 mins        █████████████░░░░░░░░░░░░   52.94 % 
+TypeScript               40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+JSON                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 6 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketplace-service-api  1 hr 25 mins        ████████████░░░░░░░░░░░░░   46.16 % 
-cuan                     29 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-fiqri.dev                23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-open-api-portal          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-marketplace-api-gateway  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+marketplace-service-api  1 hr 25 mins        █████████████░░░░░░░░░░░░   52.94 % 
+cuan                     29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+open-api-portal          20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+marketplace-api-gateway  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+marketplace-event-service10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
 
 💻 Operating System: 
-Linux                    3 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 42 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -111,7 +119,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:33:13 UTC
+ Last Updated on 28/07/2026 02:49:34 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
