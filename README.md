@@ -80,22 +80,22 @@
 
 ```text
 💬 Programming Languages: 
-Go                       45 mins             ████████████░░░░░░░░░░░░░   47.08 % 
-TypeScript               32 mins             ████████░░░░░░░░░░░░░░░░░   33.71 % 
-Bash                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+TypeScript               1 hr 1 min          ██████████████░░░░░░░░░░░   56.07 % 
+Go                       39 mins             █████████░░░░░░░░░░░░░░░░   35.63 % 
+JSON                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
 
 🔥 Editors: 
-Neovim                   1 hr 35 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 50 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketplace-service-api  37 mins             ██████████░░░░░░░░░░░░░░░   39.33 % 
-cuan                     29 mins             ████████░░░░░░░░░░░░░░░░░   30.84 % 
-marketplace-surrounding-s16 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-open-api-portal          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+open-api-portal          32 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+marketplace-service-api  31 mins             ███████░░░░░░░░░░░░░░░░░░   28.92 % 
+cuan                     29 mins             ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+marketplace-surrounding-s16 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+better-auth              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    1 hr 35 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 50 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +117,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 03:23:31 UTC
+ Last Updated on 01/08/2026 03:21:47 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
