@@ -80,24 +80,23 @@
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 9 mins         ████████████░░░░░░░░░░░░░   48.21 % 
-TypeScript               40 mins             ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-JSON                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+TypeScript               40 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
+Go                       38 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 24 mins       █████████████████████████   100.00 % 
+Neovim                   1 hr 56 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          1 hr 4 mins         ███████████░░░░░░░░░░░░░░   44.64 % 
-marketplace-service-api  1 hr 3 mins         ███████████░░░░░░░░░░░░░░   43.93 % 
-marketplace-surrounding-s16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-better-auth              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-marketplace-api-gateway  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+open-api-portal          1 hr 10 mins        ███████████████░░░░░░░░░░   60.45 % 
+marketplace-service-api  41 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
+marketplace-api-gateway  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+better-auth              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +118,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 02:49:32 UTC
+ Last Updated on 06/08/2026 02:52:32 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
