@@ -74,37 +74,6 @@
 <!-- </p> -->
 
 <!--START_SECTION:waka1-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2036%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-TypeScript               40 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
-Go                       38 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
-JSON                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-
-🔥 Editors: 
-Neovim                   1 hr 56 mins        █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-open-api-portal          1 hr 10 mins        ███████████████░░░░░░░░░░   60.45 % 
-marketplace-service-api  41 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
-marketplace-api-gateway  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
-better-auth              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-💻 Operating System: 
-Linux                    1 hr 56 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -118,7 +87,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:52:32 UTC
+ Last Updated on 07/08/2026 02:50:05 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
