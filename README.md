@@ -123,11 +123,11 @@ PHP                      2 repos             █░░░░░░░░░░�
 <!--START_SECTION:waka2-->
 
 ```txt
-Total Time: 2,424 hrs 26 mins
+Total Time: 2,425 hrs
 
-TypeScript                 1,798 hrs 16 mins     ██████████████████▒░░░░░░   73.68 %
+TypeScript                 1,798 hrs 34 mins     ██████████████████▒░░░░░░   73.68 %
+JSON                       103 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
 JavaScript                 103 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-JSON                       103 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
 Vue.js                     57 hrs 39 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 PHP                        48 hrs 46 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
