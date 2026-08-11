@@ -123,7 +123,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 <!--START_SECTION:waka2-->
 
 ```txt
-Total Time: 2,425 hrs
+Total Time: 2,425 hrs 3 mins
 
 TypeScript                 1,798 hrs 34 mins     ██████████████████▒░░░░░░   73.68 %
 JSON                       103 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
