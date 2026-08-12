@@ -80,22 +80,23 @@
 
 ```text
 💬 Programming Languages: 
-Go                       43 mins             ███████████░░░░░░░░░░░░░░   43.20 % 
-JSON                     26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-TypeScript               17 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+TypeScript               50 mins             ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Bash                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
+JSON                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+Text                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+TOML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
 
 🔥 Editors: 
-Neovim                   1 hr 41 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-marketplace-service-api  52 mins             █████████████░░░░░░░░░░░░   51.27 % 
-open-api-portal          43 mins             ███████████░░░░░░░░░░░░░░   43.12 % 
-marketplace-api-gateway  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Unknown Project          1 hr 8 mins         ███████████░░░░░░░░░░░░░░   44.19 % 
+open-api-portal          57 mins             █████████░░░░░░░░░░░░░░░░   37.17 % 
+marketplace-service-api  23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+marketplace-api-gateway  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-Linux                    1 hr 41 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +118,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 02:00:34 UTC
+ Last Updated on 12/08/2026 02:15:19 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
