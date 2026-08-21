@@ -80,23 +80,23 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 16 mins        ████████████████░░░░░░░░░   62.41 % 
-Go                       23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
-Markdown                 15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+TypeScript               40 mins             ██████████░░░░░░░░░░░░░░░   41.22 % 
+Markdown                 26 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Go                       23 mins             ██████░░░░░░░░░░░░░░░░░░░   23.89 % 
+TSConfig                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 2 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 38 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          1 hr 21 mins        █████████████████░░░░░░░░   66.07 % 
-marketplace-service-api  40 mins             ████████░░░░░░░░░░░░░░░░░   32.67 % 
-cuan                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+marketplace-service-api  52 mins             █████████████░░░░░░░░░░░░   53.22 % 
+open-api-portal          44 mins             ███████████░░░░░░░░░░░░░░   45.21 % 
+cuan                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 38 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,7 +118,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2026 01:25:41 UTC
+ Last Updated on 21/08/2026 01:35:58 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
