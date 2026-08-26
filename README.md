@@ -80,19 +80,17 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 13 mins        ██████████████████░░░░░░░   73.27 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Go                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
+TypeScript               1 hr 13 mins        ██████████████████░░░░░░░   73.38 % 
+Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Go                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
 Neovim                   1 hr 40 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          1 hr 17 mins        ███████████████████░░░░░░   77.09 % 
-marketplace-service-api  22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+open-api-portal          1 hr 17 mins        ███████████████████░░░░░░   77.21 % 
+marketplace-service-api  22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
 
 💻 Operating System: 
 Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
@@ -117,7 +115,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 01:26:26 UTC
+ Last Updated on 26/08/2026 01:36:33 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
