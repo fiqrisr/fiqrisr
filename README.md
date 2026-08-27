@@ -80,20 +80,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 13 mins        ██████████████████░░░░░░░   73.38 % 
-Markdown                 11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Go                       10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-JSON                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+TypeScript               2 hrs 39 mins       ██████████████████████░░░   89.58 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Neovim                   1 hr 40 mins        █████████████████████████   100.00 % 
+Neovim                   2 hrs 57 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          1 hr 17 mins        ███████████████████░░░░░░   77.21 % 
-marketplace-service-api  22 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+open-api-portal          2 hrs 45 mins       ███████████████████████░░   93.04 % 
+marketplace-service-api  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
 
 💻 Operating System: 
-Linux                    1 hr 40 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -115,7 +116,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 01:36:33 UTC
+ Last Updated on 27/08/2026 08:26:07 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
