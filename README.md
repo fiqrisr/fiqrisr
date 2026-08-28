@@ -80,21 +80,18 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 39 mins       ██████████████████████░░░   89.58 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
-Go                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               2 hrs 16 mins       ████████████████████████░   95.68 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 57 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 22 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-open-api-portal          2 hrs 45 mins       ███████████████████████░░   93.04 % 
-marketplace-service-api  12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+open-api-portal          2 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 57 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +113,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/08/2026 08:26:07 UTC
+ Last Updated on 28/08/2026 10:26:51 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
