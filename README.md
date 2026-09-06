@@ -80,21 +80,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               26 mins             ████████░░░░░░░░░░░░░░░░░   31.20 % 
-gitignore                21 mins             ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-Astro                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-JSON                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.24 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+TypeScript               31 mins             ███████░░░░░░░░░░░░░░░░░░   26.81 % 
+gitignore                21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Astro                    20 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
+JSON                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+YAML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
 
 🔥 Editors: 
-Neovim                   1 hr 26 mins        █████████████████████████   100.00 % 
+Neovim                   1 hr 59 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cuan                     1 hr 24 mins        ████████████████████████░   97.30 % 
-open-api-portal          2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+cuan                     1 hr 56 mins        █████████████████████████   98.04 % 
+open-api-portal          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 💻 Operating System: 
-Linux                    1 hr 26 mins        █████████████████████████   100.00 % 
+Linux                    1 hr 59 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +116,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2026 03:46:25 UTC
+ Last Updated on 06/09/2026 03:48:34 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
