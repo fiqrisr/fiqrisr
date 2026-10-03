@@ -80,21 +80,21 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 38 mins       ████████████░░░░░░░░░░░░░   47.52 % 
-TOML                     1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-Astro                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
-Markdown                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Bash                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+TypeScript               2 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   35.63 % 
+TOML                     1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+Astro                    1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Markdown                 58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cuan                     7 hrs               ██████████████████░░░░░░░   71.65 % 
-fiqri.dev                2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.35 % 
+cuan                     4 hrs 33 mins       ███████████████░░░░░░░░░░   60.72 % 
+fiqri.dev                2 hrs 57 mins       ██████████░░░░░░░░░░░░░░░   39.28 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -116,7 +116,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2026 04:53:33 UTC
+ Last Updated on 03/10/2026 04:36:22 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
