@@ -80,22 +80,24 @@
 
 ```text
 💬 Programming Languages: 
-TypeScript               40 mins             ██████████████░░░░░░░░░░░   55.90 % 
-JSON                     14 mins             █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Astro                    9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-YAML                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+TypeScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Go                       40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
 
 🔥 Editors: 
-Neovim                   1 hr 12 mins        █████████████████████████   100.00 % 
+Neovim                   3 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-cuan                     46 mins             ████████████████░░░░░░░░░   63.86 % 
-fiqri.dev                25 mins             █████████░░░░░░░░░░░░░░░░   35.50 % 
-halte-ui                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+indico-test              2 hrs 25 mins       █████████████████░░░░░░░░   66.83 % 
+cuan                     48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+fiqri.dev                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+marketplace-auth-api     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Linux                    1 hr 12 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -117,7 +119,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/10/2026 05:24:33 UTC
+ Last Updated on 10/10/2026 05:08:58 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
