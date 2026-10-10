@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Mid-Level+Frontend+Engineer;2%2B+years+experience;Always+learning+new+things" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Mid-Level+Software+Engineer;4%2B+years+of+experience;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
 ###
@@ -74,52 +74,51 @@
 <!-- </p> -->
 
 <!--START_SECTION:waka1-->
+
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-23%20hrs%2036%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-TypeScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Go                       40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+💬 Programming Languages:
+Markdown                 1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   28.61 %
+TypeScript               48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.38 %
+Go                       40 mins             █████░░░░░░░░░░░░░░░░░░░░   18.82 %
+JSON                     24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
 
-🔥 Editors: 
-Neovim                   3 hrs 37 mins       █████████████████████████   100.00 % 
+🔥 Editors:
+Neovim                   3 hrs 37 mins       █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-indico-test              2 hrs 25 mins       █████████████████░░░░░░░░   66.83 % 
-cuan                     48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
-fiqri.dev                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-marketplace-auth-api     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🐱‍💻 Projects:
+indico-test              2 hrs 25 mins       █████████████████░░░░░░░░   66.83 %
+cuan                     48 mins             ██████░░░░░░░░░░░░░░░░░░░   22.36 %
+fiqri.dev                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+marketplace-auth-api     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 
-💻 Operating System: 
-Linux                    3 hrs 37 mins       █████████████████████████   100.00 % 
+💻 Operating System:
+Linux                    3 hrs 37 mins       █████████████████████████   100.00 %
 ```
 
-🤖 **AI Coding This Week** 
+🤖 **AI Coding This Week**
 
 ```text
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in TypeScript**
 
 ```text
-TypeScript               35 repos            ███████████░░░░░░░░░░░░░░   42.17 % 
-Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+TypeScript               35 repos            ███████████░░░░░░░░░░░░░░   42.17 %
+Java                     13 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.66 %
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
+Last Updated on 10/10/2026 05:08:58 UTC
 
-
-
- Last Updated on 10/10/2026 05:08:58 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
