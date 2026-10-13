@@ -80,24 +80,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
-Go                       1 hr 37 mins        ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-TypeScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-SQL                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+Go                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
+TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+SQL                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 26 mins       █████████████████████████   100.00 % 
+Neovim                   6 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-indico-test              5 hrs 14 mins       ████████████████████░░░░░   81.32 % 
-cuan                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-fiqri.dev                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-marketplace-auth-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+indico-test              5 hrs 15 mins       █████████████████████░░░░   83.70 % 
+cuan                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+marketplace-auth-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+fiqrisr                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 💻 Operating System: 
-Linux                    6 hrs 26 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,17 +109,17 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ██████████░░░░░░░░░░░░░░░   41.67 % 
-Python                   5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               35 repos            ███████████░░░░░░░░░░░░░░   42.17 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
 
 
- Last Updated on 11/10/2026 04:58:34 UTC
+ Last Updated on 13/10/2026 06:11:56 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
