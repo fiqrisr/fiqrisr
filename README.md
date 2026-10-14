@@ -80,24 +80,24 @@
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 46 mins        ███████░░░░░░░░░░░░░░░░░░   28.34 % 
-Go                       1 hr 37 mins        ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-TypeScript               57 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-SQL                      25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-JSON                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Go                       1 hr 53 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+Markdown                 1 hr 46 mins        ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+TypeScript               57 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+YAML                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+SQL                      25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🔥 Editors: 
-Neovim                   6 hrs 16 mins       █████████████████████████   100.00 % 
+Neovim                   7 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-indico-test              5 hrs 15 mins       █████████████████████░░░░   83.70 % 
-cuan                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-marketplace-auth-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-fiqrisr                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+indico-test              5 hrs 15 mins       ██████████████████░░░░░░░   71.69 % 
+go-gin-moonrepo          1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+cuan                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+marketplace-auth-api     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Linux                    6 hrs 16 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +119,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 06:11:56 UTC
+ Last Updated on 14/10/2026 04:14:00 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
