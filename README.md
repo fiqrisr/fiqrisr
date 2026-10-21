@@ -80,24 +80,24 @@
 
 ```text
 💬 Programming Languages: 
-Go                       3 hrs 2 mins        ████████████████░░░░░░░░░   63.79 % 
-Markdown                 46 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-gitignore                17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-gowork                   5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+Go                       2 hrs 46 mins       ███████████████████░░░░░░   75.06 % 
+Markdown                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 46 mins       █████████████████████████   100.00 % 
+Neovim                   3 hrs 42 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-indico-test              2 hrs 24 mins       █████████████░░░░░░░░░░░░   50.65 % 
-go-gin-moonrepo          1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-node-go-moonrepo-openspec32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-cuan                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
-Unknown Project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+indico-test              2 hrs 24 mins       ████████████████░░░░░░░░░   65.12 % 
+node-go-moonrepo-openspec32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+go-gin-moonrepo          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+cuan                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 💻 Operating System: 
-Linux                    4 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +119,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 04:11:24 UTC
+ Last Updated on 21/10/2026 03:59:47 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
