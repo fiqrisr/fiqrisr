@@ -80,24 +80,23 @@
 
 ```text
 💬 Programming Languages: 
-Go                       2 hrs 46 mins       ███████████████████░░░░░░   75.06 % 
-Markdown                 46 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Go                       1 hr 53 mins        ███████████████████░░░░░░   75.32 % 
+Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🔥 Editors: 
-Neovim                   3 hrs 42 mins       █████████████████████████   100.00 % 
+Neovim                   2 hrs 30 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-indico-test              2 hrs 24 mins       ████████████████░░░░░░░░░   65.12 % 
-node-go-moonrepo-openspec32 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
-go-gin-moonrepo          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-cuan                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+indico-test              2 hrs 13 mins       ██████████████████████░░░   88.35 % 
+cuan                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+node-go-moonrepo-openspec0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -119,7 +118,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 03:59:47 UTC
+ Last Updated on 22/10/2026 04:00:30 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
