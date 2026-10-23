@@ -80,23 +80,18 @@
 
 ```text
 💬 Programming Languages: 
-Go                       1 hr 53 mins        ███████████████████░░░░░░   75.32 % 
-Markdown                 30 mins             █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-TypeScript               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-SQL                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Bash                     13 mins             ██████████████████░░░░░░░   70.96 % 
+tmux                     5 mins              ███████░░░░░░░░░░░░░░░░░░   29.04 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 30 mins       █████████████████████████   100.00 % 
+Neovim                   18 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-indico-test              2 hrs 13 mins       ██████████████████████░░░   88.35 % 
-cuan                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-node-go-moonrepo-openspec0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Unknown Project          18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    2 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      16 mins             ██████████████████████░░░   87.92 % 
+Linux                    2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -118,7 +113,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 04:00:30 UTC
+ Last Updated on 23/10/2026 04:03:52 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
