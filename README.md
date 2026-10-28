@@ -80,51 +80,51 @@
 
 ```text
 💬 Programming Languages: 
-Bash                     58 mins             ██████████░░░░░░░░░░░░░░░   39.37 % 
-TypeScript               43 mins             ███████░░░░░░░░░░░░░░░░░░   29.68 % 
-Other                    33 mins             ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-tmux                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Bash                     58 mins             ████████░░░░░░░░░░░░░░░░░   33.42 % 
+TypeScript               46 mins             ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+Other                    42 mins             ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+YAML                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+tmux                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Neovim                   2 hrs 6 mins        █████████████████████░░░░   85.63 % 
-OMP                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Wakatime                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Neovim                   2 hrs 32 mins       ██████████████████████░░░   87.80 % 
+OMP                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Wakatime                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-cuan                     1 hr 14 mins        █████████████░░░░░░░░░░░░   50.64 % 
-Unknown Project          58 mins             ██████████░░░░░░░░░░░░░░░   39.39 % 
-mason.log                10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-T                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-core                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+cuan                     1 hr 15 mins        ███████████░░░░░░░░░░░░░░   43.38 % 
+Unknown Project          58 mins             ████████░░░░░░░░░░░░░░░░░   33.44 % 
+pixelwall                23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+mason.log                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+T                        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      2 hrs 25 mins       █████████████████████████   98.38 % 
-Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Mac                      2 hrs 50 mins       █████████████████████████   98.24 % 
+Linux                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (52.19%)
+⏱ AI Coding Time: 1 hr 17 mins (44.31%)
 
-✍️ 636 lines written by AI, 20 lines written by hand (96.95% AI-written)
+✍️ 636 lines written by AI, 38 lines written by hand (94.36% AI-written)
 
 🔤 15,792,753 Input Tokens, 55,017 Output Tokens
 
 💵 $13.18 Estimated AI Cost This Week
 
-🧠 171 AI Sessions, 14 AI Prompts
+🧠 172 AI Sessions, 15 AI Prompts
 
 Gemini                   636 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.95% of written lines came from AI
-📝 Concise Prompter — average 145 characters per prompt
+🤖 AI-Driven — 94.36% of written lines came from AI
+📝 Concise Prompter — average 137 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 3.49% of changed lines were hand-edited
+🚀 High AI Trust — 6.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +140,7 @@ Go                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2026 04:22:06 UTC
+ Last Updated on 28/10/2026 04:53:08 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
