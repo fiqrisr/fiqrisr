@@ -74,73 +74,74 @@
 <!-- </p> -->
 
 <!--START_SECTION:waka1-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-24%20hrs%2053%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 39 mins        █████████░░░░░░░░░░░░░░░░   36.25 % 
-Bash                     59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-Other                    42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Markdown                 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+TypeScript               2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
+Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+proto                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 13 mins       ███████████████████████░░   92.26 % 
-OMP                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Orca                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Neovim                   4 hrs 45 mins       ███████████████████░░░░░░   76.46 % 
+Zed                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+OMP                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Orca                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 Wakatime                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-indico-engage-frontend   1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.17 % 
-cuan                     1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
-Unknown Project          58 mins             █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-pixelwall                23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-mason.log                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+indico-engage-frontend   2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
+cuan                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+pixelwall                50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Unknown Project          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
+mason.log                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Mac                      4 hrs 26 mins       ████████████████████████░   97.34 % 
-Linux                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+Mac                      6 hrs 8 mins        █████████████████████████   98.65 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 17 mins (28.12%)
+⏱ AI Coding Time: 1 hr 26 mins (23.11%)
 
-✍️ 636 lines written by AI, 105 lines written by hand (85.83% AI-written)
+✍️ 636 lines written by AI, 153 lines written by hand (80.61% AI-written)
 
-🔤 15,792,753 Input Tokens, 55,017 Output Tokens
+🔤 15,965,462 Input Tokens, 56,588 Output Tokens
 
-💵 $13.18 Estimated AI Cost This Week
+💵 $13.36 Estimated AI Cost This Week
 
-🧠 172 AI Sessions, 15 AI Prompts
+🧠 186 AI Sessions, 23 AI Prompts
 
 Gemini                   636 lines           █████████████████████████   100.00 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 85.83% of written lines came from AI
-📝 Concise Prompter — average 137 characters per prompt
+🤖 AI-Driven — 80.61% of written lines came from AI
+📝 Concise Prompter — average 101 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 14.63% of changed lines were hand-edited
+🚀 High AI Trust — 20.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               35 repos            ███████████░░░░░░░░░░░░░░   42.68 % 
-Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-Go                       1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               35 repos            ███████████░░░░░░░░░░░░░░   42.17 % 
+Python                   5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 
 
 
- Last Updated on 29/10/2026 05:02:57 UTC
+ Last Updated on 30/10/2026 05:02:31 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
