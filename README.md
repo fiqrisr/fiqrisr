@@ -74,58 +74,59 @@
 <!-- </p> -->
 
 <!--START_SECTION:waka1-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-25%20hrs%2046%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.18 % 
-Other                    51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Bash                     45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-Markdown                 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-proto                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+TypeScript               2 hrs 35 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+Markdown                 55 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+Other                    34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+proto                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Neovim                   4 hrs 45 mins       ███████████████████░░░░░░   76.46 % 
-Zed                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-OMP                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Orca                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-Wakatime                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Neovim                   3 hrs 12 mins       ███████████████░░░░░░░░░░   59.01 % 
+Zed                      57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
+OMP                      46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Orca                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Wakatime                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 🐱‍💻 Projects: 
-indico-engage-frontend   2 hrs 50 mins       ███████████░░░░░░░░░░░░░░   45.54 % 
-cuan                     1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-pixelwall                50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Unknown Project          49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-mason.log                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+indico-engage-frontend   3 hrs 38 mins       █████████████████░░░░░░░░   66.81 % 
+pixelwall                50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+cuan                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Unknown Project          9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+indico-engage-backend    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 💻 Operating System: 
-Mac                      6 hrs 8 mins        █████████████████████████   98.65 % 
-Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Mac                      5 hrs 21 mins       █████████████████████████   98.36 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (23.11%)
+⏱ AI Coding Time: 1 hr 15 mins (23.2%)
 
-✍️ 636 lines written by AI, 153 lines written by hand (80.61% AI-written)
+✍️ 110 lines written by AI, 146 lines written by hand (42.97% AI-written)
 
-🔤 15,965,462 Input Tokens, 56,588 Output Tokens
+🔤 13,027,427 Input Tokens, 47,244 Output Tokens
 
-💵 $13.36 Estimated AI Cost This Week
+💵 $21.16 Estimated AI Cost This Week
 
-🧠 186 AI Sessions, 23 AI Prompts
+🧠 177 AI Sessions, 24 AI Prompts
 
-Gemini                   636 lines           █████████████████████████   100.00 % 
+Sonnet                   110 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 80.61% of written lines came from AI
-📝 Concise Prompter — average 101 characters per prompt
+⚖️ Balanced with AI — 42.97% of written lines came from AI
+📝 Concise Prompter — average 113 characters per prompt
 🎯 One-Shot Prompter — average 0 prompts per session
-🚀 High AI Trust — 20.0% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 58.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -141,7 +142,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 05:02:31 UTC
+ Last Updated on 31/10/2026 04:50:30 UTC
 <!--END_SECTION:waka1-->
 
 <!--START_SECTION:waka2-->
